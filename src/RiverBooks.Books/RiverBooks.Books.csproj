@@ -10,5 +10,10 @@
   <ItemGroup>
     <FrameWorkReference Include="Microsoft.AspNetCore.App"/>
   </ItemGroup>
+  
+  
+  <ItemGroup>
+    <PackageReference Include="FastEndpoints" Version="5.27.0.13-beta" />
+  </ItemGroup>
 
 </Project>
